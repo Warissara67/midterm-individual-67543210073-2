@@ -1,8 +1,8 @@
 # Library Management System - Layered Architecture
 
 ## 📋 Project Information
-- **Student Name:** [ชื่อ-นามสกุล]
-- **Student ID:** [รหัสนักศึกษา]
+- **Student Name:** [นางสาว วริศรา สรรพกรพิเศษ]
+- **Student ID:** [67543210073-2]
 - **Course:** ENGSE207 Software Architecture
 
 ## 🏗️ Architecture Style
@@ -83,3 +83,4 @@ PUT	`/api/books/:id`	แก้ไขข้อมูลหนังสือ
 PATCH	`/api/books/:id/borrow`	ยืมหนังสือ
 PATCH	`/api/books/:id/return`	คืนหนังสือ
 DELETE	`/api/books/:id`	ลบหนังสือ
+
